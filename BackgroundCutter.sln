@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundCutter", "BackgroundCutter.csproj", "{477EC93F-A0BD-49BA-AE78-EC279769E8EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477EC93F-A0BD-49BA-AE78-EC279769E8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477EC93F-A0BD-49BA-AE78-EC279769E8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477EC93F-A0BD-49BA-AE78-EC279769E8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477EC93F-A0BD-49BA-AE78-EC279769E8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B768FA-93E3-46A7-AB54-5C292D2577E8}
+	EndGlobalSection
+EndGlobal
